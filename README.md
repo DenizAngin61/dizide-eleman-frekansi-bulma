@@ -1,0 +1,1 @@
+# dizide-eleman-frekansi-bulma
